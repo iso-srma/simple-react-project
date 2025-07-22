@@ -1,0 +1,11 @@
+
+.div{
+ 
+  background-color: rgb(179, 217, 230);
+  padding: 5px 5px 5px 5px;
+  margin: 10px 10px 10px 10px;
+  space-between: 10px;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+}
