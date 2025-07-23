@@ -40,6 +40,6 @@ const App = () => {
       </ul>
     </div>
   );
-};  // <--- THIS CLOSING BRACKET
+};
 
 export default App;
